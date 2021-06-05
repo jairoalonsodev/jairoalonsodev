@@ -11,10 +11,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer:
--  **Learning :** FrontEnd :zap: | Github :man_student:	
--  **Hobbies :** Basketball :basketball_man: | Music :headphones: | Games :video_game:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer a motorbike :motorcycle: 
+-  **Learning :** Frontend :zap: | Github :man_student:	
+-  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
+-  **Ask me about :** Anything!, I'm happy to help :v: 
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
