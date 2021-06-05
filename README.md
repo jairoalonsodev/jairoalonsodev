@@ -17,6 +17,17 @@
 -  **Pronouns :** He/Him/His :innocent:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### :desktop_computer: Languages (still learning)
+<p align="center">
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/><br>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairoalonsodev" alt="jairoalonsodev" /> </p>
@@ -24,3 +35,4 @@
 ### 📊 Profile stats
 
 [![jairoalonsodev's github stats](https://github-readme-stats.vercel.app/api?username=jairoalonsodev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jairoalonsodev/github-readme-stats)
+
