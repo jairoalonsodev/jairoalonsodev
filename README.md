@@ -5,6 +5,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/jairoalonsodev/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jairo_Alonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairoalonsodev/"></a>
 <a href="https://twitter.com/jairoalonsodev"><img alt="Twitter" src="https://img.shields.io/badge/-jairoalonsodev-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jairoalonsodev"></a>
+<a href="https://github.com/jairoalonsodev"><img alt="Github" src="https://img.shields.io/badge/-jairoalonsodev-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jairoalonsodev"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
