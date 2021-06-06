@@ -15,6 +15,7 @@
 -  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
 -  **Ask me about :** Anything!, I'm happy to help :v: 
 -  **Pronouns :** He/Him/His :innocent:
+-  **Contact :** jairoalonsodev@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :desktop_computer: Languages (still learning)
