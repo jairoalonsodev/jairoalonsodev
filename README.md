@@ -26,7 +26,7 @@
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-<img style="margin: auto;" src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt=github width="60" height="60"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
