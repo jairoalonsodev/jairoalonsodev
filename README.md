@@ -27,6 +27,7 @@
 <img style="margin: auto;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt=github width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+<img style="margin: auto;" src="https://imgs.search.brave.com/z_Pe1xwcs_5QAZpaCylq_fyoAYzMivpEGpyO6eo8Ji0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUEhQX2xv/Z28ucG5n" alt=github width="60" height="60"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
