@@ -11,7 +11,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  FullStack Development :computer:
--  **Learning :** Desktop Development Technologies 📈
+-  **Learning :** Mobile Development Technologies 📈
 -  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
 -  **Ask me about :** Anything! I'm happy to help :v: 
 -  **Pronouns :** He/Him/His :innocent:
