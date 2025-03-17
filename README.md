@@ -13,8 +13,7 @@
 -  **Working :**  FullStack Web Development :computer:
 -  **Learning :** Mobile Development Technologies 📈
 -  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
--  **Ask me about :** Anything! I'm happy to help :v: 
--  **Pronouns :** He/Him/His :innocent:
+-  **Ask me about :** Anything! I'm happy to help :v:
 -  **Contact :** jairoalonsodev@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
