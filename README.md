@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Jairo Alonso :raising_hand_man: </h1>
 
-<h3 align="center">  Tech Enthusiast | Fullstack Web Developer </h3> <br>
+<h3 align="center">  Tech Enthusiast | Frontend Developer </h3> <br>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/jairoalonsodev/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jairo_Alonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairoalonsodev/"></a>
@@ -11,7 +11,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  FullStack Web Development :computer:
--  **Learning :** Mobile Development Technologies 📈
 -  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
 -  **Ask me about :** Anything! I'm happy to help :v:
 -  **Contact :** jairoalonsodev@gmail.com
