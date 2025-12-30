@@ -20,14 +20,9 @@
 <p align="center">
   <img style="margin: auto;" src="https://imgs.search.brave.com/pWdT72k82a1p_dLgYcZJZZSQk3fhrTjqj8XmAGRDq9U/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzEwL215c3FsLWxv/Z28tMS5wbmc" alt=sql width="80" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-  <img style="margin: auto;"  src="https://imgs.search.brave.com/z_Pe1xwcs_5QAZpaCylq_fyoAYzMivpEGpyO6eo8Ji0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvUEhQX2xv/Z28ucG5n" alt=github width="80" height="60"/>
-  <br>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
   <img style="margin: auto;" src="https://imgs.search.brave.com/YlS5VuWzZvKwp2RgiANLb12xGWHVnPPV6Id32uidwng/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvYW5n/dWxhci1pY29uLTEt/bG9nby1wbmctdHJh/bnNwYXJlbnQucG5n" alt=angular width="60" height="60"/>
   <img style="margin: auto;" src="https://imgs.search.brave.com/3LWweo1dZJaJhT_PmbhmpHMU-NVEL3cZHvv-amjuKKk/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9i/b290c3RyYXBfcGxh/aW5fbG9nb19pY29u/XzE0NjYxOS5wbmc" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
- 
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
