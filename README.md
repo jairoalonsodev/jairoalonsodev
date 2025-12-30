@@ -18,7 +18,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :desktop_computer: Languages (still learning)
 <p align="center">
-  [!(https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,aws,css,tailwind&theme=dark)]
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,aws,css,tailwind&theme=dark)]
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
