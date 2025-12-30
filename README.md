@@ -18,19 +18,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :desktop_computer: Languages (still learning)
 <p align="center">
-  <img style="margin: auto;" src="https://imgs.search.brave.com/pWdT72k82a1p_dLgYcZJZZSQk3fhrTjqj8XmAGRDq9U/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE2/LzEwL215c3FsLWxv/Z28tMS5wbmc" alt=sql width="80" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-  <img style="margin: auto;" src="https://imgs.search.brave.com/YlS5VuWzZvKwp2RgiANLb12xGWHVnPPV6Id32uidwng/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvYW5n/dWxhci1pY29uLTEt/bG9nby1wbmctdHJh/bnNwYXJlbnQucG5n" alt=angular width="60" height="60"/>
-  <img style="margin: auto;" src="https://imgs.search.brave.com/3LWweo1dZJaJhT_PmbhmpHMU-NVEL3cZHvv-amjuKKk/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI0/MTUvUE5HLzUxMi9i/b290c3RyYXBfcGxh/aW5fbG9nb19pY29u/XzE0NjYxOS5wbmc" alt=bootstrap width="60" height="60"/>
+  (https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,aws,css,tailwind&theme=dark)
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairoalonsodev" alt="jairoalonsodev" /> </p>
-
-### 📊 Profile stats
-
-[![jairoalonsodev's github stats](https://github-readme-stats.vercel.app/api?username=jairoalonsodev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jairoalonsodev/github-readme-stats)
-
