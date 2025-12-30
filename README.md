@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  FullStack Web Development :computer:
+-  **Working :**  Frontend Development :computer:
 -  **Hobbies :** Motorbikes :motorcycle: | Music :headphones: | Games :video_game:
 -  **Ask me about :** Anything! I'm happy to help :v:
 -  **Contact :** jairoalonsodev@gmail.com
